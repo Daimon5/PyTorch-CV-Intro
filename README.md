@@ -32,7 +32,7 @@ I plan to expand on this project by exploring more advanced architectures, exper
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own learning and projects.
+This project is licensed under the [MIT License](LICENSE.txt). Feel free to use and modify the code for your own learning and projects.
 
 ## Acknowledgments
 
